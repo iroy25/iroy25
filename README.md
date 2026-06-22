@@ -12,7 +12,7 @@ Building scalable backend applications with Java & Spring Boot while exploring M
 
 - 🎓 B.Tech in Computer Science Engineering (AI & ML)
 - 💻 Java Full Stack Developer passionate about building secure and scalable web applications
-- 🚀 Skilled in Spring Boot, REST APIs, MySQL, Spring Security, and React
+- 🚀 Skilled in Spring Boot, REST APIs, MySQL, Spring Security, and ReactJs
 - 🌱 Currently learning Microservices and distributed systems
 - 🔍 Interested in backend engineering, scalable systems, and software development best practices.
 - 📍 Kolkata, India
