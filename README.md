@@ -27,7 +27,7 @@ Building scalable backend applications with Java & Spring Boot while exploring M
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css.jquery" />
 </p>
 
 ### Frameworks & Libraries
